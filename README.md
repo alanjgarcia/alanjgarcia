@@ -1,7 +1,10 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome!%20&fontSize=90" />
 
 
 ## My name is Alan Garcia. I am a bilingual Latino software developer from Chicago Illinois. I have a passion for soccer, teaching, and coding! My other personal interests include Jiu Jitsu, reading, and hiking.  
+
+
+
 
 🔭 I’m currently working on creating an xbar that allows me to see the upcoming schedule of my favorite soccer team, Arsenal! 
 
