@@ -42,11 +42,11 @@ creating an xbar that allows me to see the upcoming schedule of my favorite socc
 
 # Personal Interests 
 
-<img height="235" align="right" src="https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhZGluZ3xlbnwwfHwwfHw%3D&w=1000&q=80"/>
+<img height="220" align="right" src="https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVhZGluZ3xlbnwwfHwwfHw%3D&w=1000&q=80"/>
 
 
-<img height="235" align="left" src="https://media.giphy.com/media/lXiRyi9qA8Xh9sYYU/giphy.gif?cid=ecf05e47zlxw604wuddd45skjeocvke14hv1nko4s1uylbtn&rid=giphy.gif&ct=g"/>
+<img height="220" align="right" src="https://media.giphy.com/media/lXiRyi9qA8Xh9sYYU/giphy.gif?cid=ecf05e47zlxw604wuddd45skjeocvke14hv1nko4s1uylbtn&rid=giphy.gif&ct=g"/>
 
 
-<img height="235" align="right" src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7"/>
+<img height="220" align="left" src="https://i.scdn.co/image/ab6765630000ba8a563ebb538d297875b10114b7"/>
 
