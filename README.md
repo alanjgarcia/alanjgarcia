@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome!%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=Welcome!%20&fontSize=90&animation=fadeIn" />
 
 
 ## My name is Alan Garcia. I am a bilingual Latino software developer from Chicago Illinois. I have a passion for soccer, teaching, and coding! My other personal interests include Jiu Jitsu, reading, and hiking.  
